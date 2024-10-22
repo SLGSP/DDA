@@ -1,0 +1,19 @@
+python datafree_kd.py \
+--method dda \
+--dataset cifar10 \
+--batch_size 128 \
+--teacher wrn40_2 \
+--student wrn16_1 \
+--lr 0.1 \
+--epochs 400 \
+--g_steps 500 \
+--synthesis_batch_size 200 \
+--lr_g 1e-3 \
+--dda 0 \
+--adv 0 \
+--bn 1.0 \
+--oh 1.0 \
+--gpu 0 \
+--seed 1 \
+--save_dir run/dda/cifar10_wrn402_initBank \
+--log_tag init_bank

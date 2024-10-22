@@ -1,0 +1,23 @@
+python datafree_kd_copy1.py \
+--method dda \
+--dataset cifar10 \
+--batch_size 128 \
+--teacher vgg11 \
+--student resnet18 \
+--lr 0.1 \
+--epochs 200 \
+--kd_steps 2000 \
+--ep_steps 2000 \
+--g_steps 200 \
+--synthesis_batch_size 400 \
+--lr_g 1e-3 \
+--dda 10 \
+--adv 0 \
+--bn 1.0 \
+--oh 1.0 \
+--gpu 0 \
+--seed 1 \
+--T 20 \
+--save_dir run/dda/cifar10_wrn402_wrn161 \
+--init_bank run/dda/cifar10_wrn402_initBank \
+--run_kd
