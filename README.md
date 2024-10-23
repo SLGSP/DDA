@@ -1,6 +1,6 @@
 ## Towards Effective Data-Free Knowledge Distillation via Diverse Diffusion Augmentation
 
-A benchmark of the MM2024 paper: Towards Effective Data-Free Knowledge Distillation via Diverse Diffusion Augmentation.
+MM2024 paper: Towards Effective Data-Free Knowledge Distillation via Diverse Diffusion Augmentation.
 
 Author: Muquan Li,  Dongyang Zhang,  Tao He,  Xiurui Xie,  Yuan-Fang Li,  Ke Qin
 
