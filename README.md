@@ -1,6 +1,6 @@
 ## Towards Effective Data-Free Knowledge Distillation via Diverse Diffusion Augmentation
 
-This is the implementation for the MM2024 paper: Towards Effective Data-Free Knowledge Distillation via Diverse Diffusion Augmentation.
+A benchmark of the MM2024 paper: Towards Effective Data-Free Knowledge Distillation via Diverse Diffusion Augmentation.
 
 ### 1. Environment
 
