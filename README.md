@@ -2,6 +2,8 @@
 
 A benchmark of the MM2024 paper: Towards Effective Data-Free Knowledge Distillation via Diverse Diffusion Augmentation.
 
+<img src="images/overview.png">
+
 ### 1. Environment
 
 This repository is tested with Ubuntu 18.04.5 LTS, python 3.6.5, pytorch 1.7.1 and cuda 11.4.
