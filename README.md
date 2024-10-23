@@ -1,6 +1,6 @@
-## Customizing Synthetic data for Data-Free Student Learning
+## Towards Effective Data-Free Knowledge Distillation via Diverse Diffusion Augmentation
 
-This is the implementation for the ICME2023 paper: Customizing Synthetic Data for Data-Free Student Learning.
+This is the implementation for the MM2024 paper: Towards Effective Data-Free Knowledge Distillation via Diverse Diffusion Augmentation.
 
 ### 1. Environment
 
