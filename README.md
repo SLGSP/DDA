@@ -44,5 +44,24 @@ bash scripts/dda/dda_cifar10_wrn402_wrn161.sh
 bash scripts/xxx/xxx.sh # e.g. scripts/zskt/zskt_cifar10_wrn402_wrn161.sh
 ```
 
+### Citation
 
+```BibTeX
+@inproceedings{DBLP:conf/mm/LiZ0XLQ24,
+  author       = {Muquan Li and
+                  Dongyang Zhang and
+                  Tao He and
+                  Xiurui Xie and
+                  Yuan{-}Fang Li and
+                  Ke Qin},
+  title        = {Towards Effective Data-Free Knowledge Distillation via Diverse Diffusion
+                  Augmentation},
+  booktitle    = {Proceedings of the 32nd {ACM} International Conference on Multimedia,
+                  {MM} 2024, Melbourne, VIC, Australia, 28 October 2024 - 1 November
+                  2024},
+  pages        = {4416--4425},
+  publisher    = {{ACM}},
+  year         = {2024},
+}
+```
 
